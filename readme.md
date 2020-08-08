@@ -1,5 +1,6 @@
 # Ajax 状态值(readyState) & 状态码
 
+![image](https://github.com/tab91622/Notes/noteImg/2020-08-09.png)
 <img src="./noteImg/批注 2020-08-09 004053.png" />
 
 # 克隆
