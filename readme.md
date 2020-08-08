@@ -1,7 +1,6 @@
 # Ajax 状态值(readyState) & 状态码
 
-![image](https://github.com/tab91622/Notes/noteImg/2020-08-09.png)
-<img src="./noteImg/批注 2020-08-09 004053.png" />
+![](http://cdn.wwrrq.com/noteImg-2020-08-09.png)
 
 # 克隆
 区别深克隆和浅克隆的是: 原本/副本某一方**修改引用属性值**是否会导致另一方的更改
