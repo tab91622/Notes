@@ -14,7 +14,14 @@
 
 ## CSS 
 
+[深入了解display:none](./css/note/display-none.md)
+
 [画三角形](./css/note/画三角形.md)
+
+[元素居中](./css/note/元素居中.md)
+
+[其他应用](./css/note/其他应用.md)
+
 
 ## 网络
 

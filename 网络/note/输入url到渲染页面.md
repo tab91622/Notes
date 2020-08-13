@@ -1,5 +1,6 @@
 [原文链接](https://github.com/sup-fiveyear/Notes/edit/master/notes-%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9F%BA%E7%A1%80/%E8%BE%93%E5%85%A5URL%E5%90%8E%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)
 
+
 > 侧重浏览器视角
 
 ![20200807210634]( https://supyyy-1259673491.cos.ap-beijing.myqcloud.com/2020/pictures20200807210634.png)
