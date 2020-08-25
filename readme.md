@@ -4,6 +4,10 @@
 
 [闭包](./JavaScript/note/闭包.md)
 
+[JS继承](./JavaScript/note/JS继承.md)
+
+[防抖节流](./JavaScript/note/防抖节流.md)
+
 [模拟await](./JavaScript/note/模拟await.md)
 
 [数组扁平化](./JavaScript/note/数组扁平化.md)
@@ -14,6 +18,7 @@
 
 [四种简洁的方法数组去重](./JavaScript/note/数组去重.md)
 
+[call,apply,bind](./JavaScript/note/call,apply,bind.md)
 
 ## CSS 
 
