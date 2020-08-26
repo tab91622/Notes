@@ -1,6 +1,6 @@
 ```await``` 作用于 ```promise``` 任务, 返回它的状态数据
 
-这里没办法法将数据返回到外部, 仅是可等待
+这里没办法法将数据返回到外部, 仅是等待
 
 ```js
 /**
@@ -8,6 +8,7 @@
  */
 function* generator(task) {
   const data = yield task()
+  // data 就是 Promise 的状态数据
   return data
 }
 
